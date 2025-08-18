@@ -26,7 +26,7 @@ For each client, you'll have to adjust each of the following files (examples are
 
 * mirrorlist
 
-You'll need to update the IP address to point to your server.
+You'll need to update the IP address in each file to point to your server.
 
 Good Luck!
 
