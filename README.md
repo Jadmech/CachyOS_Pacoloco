@@ -18,7 +18,7 @@ Once the server is up and running, copy the pacoloco.yaml provided into the paco
 
 CLIENTS:
 
-For each client, you'll have to adjust each of the following files (examples are provided):
+For each client, you'll have to adjust each of the following files (examples are provided - I usually rename the originals - just in case):
 
 * cachyos-mirrorlist
 
