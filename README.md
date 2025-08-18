@@ -20,9 +20,11 @@ CLIENTS:
 
 For each client, you'll have to adjust each of the following files (examples are provided):
 
-cachyos-mirrorlist
-cachyos-v3-mirrorlist
-mirrorlist
+* cachyos-mirrorlist
+
+* cachyos-v3-mirrorlist
+
+* mirrorlist
 
 You'll need to update the IP address to point to your server.
 
