@@ -1,7 +1,5 @@
 The following files are configured to allow CachyOS systems to point to a pacoloco server on your local network. Once configured on the server and the client, the systems will use the pacoloco server for all CachyOS and Arch Linux repositories.
 
-Note: If you are using the v4 instruction sets for CPUs such as Intel Skylake (2015+) or newer server processors, Intel Core Rocket Lake, Ice Lake, Tiger Lake, and AMD Zen 4 or newer, you'll need to add the v4 to the .yaml file as well.
-
 Setup is as follows:
 
 SERVER:
