@@ -10,7 +10,7 @@ I used a Docker image from https://github.com/anatol/pacoloco/pkgs/container/pac
 
 Follow the instructions for setup as provided.
 
-Once the server is up and running, copy the pacoloco.yaml provided into the pacolocal home directory (backing up or overwriting the current file). Config should work as configured. Workes as of 21-Oct-2025.
+Once the server is up and running, copy the pacoloco.yaml provided into the pacolocal home directory (backing up or overwriting the current file). Config should work as configured. Works as of 21-Oct-2025.
 
 
 
